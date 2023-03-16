@@ -21,7 +21,7 @@
     "node": "^16.0.0"
   },
   "devDependencies": {
-    "@silverhand/eslint-config": "1.0.0-rc.2",
+    "@silverhand/eslint-config": "1.3.0",
     "@silverhand/essentials": "^1.1.6",
     "@silverhand/jest-config": "1.0.0-rc.3",
     "@silverhand/ts-config": "1.0.0-rc.2",
